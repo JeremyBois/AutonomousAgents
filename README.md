@@ -1,4 +1,11 @@
-### Description
+## Try it out
+
+  - Sources can be compiled (I used MonoDevelop)
+  - `RunningExample.zip` can be extracted and run with `mono AutonomousAgent.exe`
+
+
+
+## Description
 Implementation of some steering behavior using GNU/Linux, Monogame, and C# based on
 paper from [Craig W. Reynolds](https://www.red3d.com/cwr/steer/gdc99/).
 
@@ -14,7 +21,7 @@ Each behavior can be added together to form more complex behavior. This is illus
 ![Flocking scene](Doc/packing2.png)
 
 
-### Scenes
+## Scenes
 You can navigate between scenes using `N` (next) and `P` (previous) keys. Scenes are
 organized using a [FSM](https://en.wikipedia.org/wiki/Finite-state_machine).
 
