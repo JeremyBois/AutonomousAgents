@@ -1,0 +1,1703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"Lime\tColor { get; set; }"
+			],
+			[
+				"Oc",
+				"LemonChiffon\tColor { get; set; }"
+			],
+			[
+				"To",
+				"ToAvoid\tVehicle { get; set; }"
+			],
+			[
+				"W",
+				"WanderingJitter\tdouble { get; }"
+			],
+			[
+				"IE",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"Flo",
+				"FlockOn()\tvoid"
+			],
+			[
+				"Co",
+				"CombinaisonMethodUsed\tCombinaisonMethod { get; set; }"
+			],
+			[
+				"Vec",
+				"Vector2\tVector2"
+			],
+			[
+				"Get",
+				"GetClosestMovingEntities(MovingEntity entityRef, int distance)\tList<MovingEntity>"
+			],
+			[
+				"COr",
+				"CornflowerBlue\tColor { get; set; }"
+			],
+			[
+				"Bl",
+				"BlanchedAlmond\tColor { get; set; }"
+			],
+			[
+				"en",
+				"entity\tBaseEntity"
+			],
+			[
+				"_",
+				"_entities\tEntityManager"
+			],
+			[
+				"for",
+				"foreach\tforeach"
+			],
+			[
+				"Sc",
+				"SceneManager\tSceneManager"
+			],
+			[
+				"Dar",
+				"DarkOrange\tColor { get; set; }"
+			],
+			[
+				"A",
+				"Gainsboro\tColor { get; set; }"
+			],
+			[
+				"Ma",
+				"Manager\tSceneManager { get; }"
+			],
+			[
+				"FloS",
+				"flockSize\tint"
+			],
+			[
+				"P",
+				"RevertToPrevious()\tvoid"
+			],
+			[
+				"C",
+				"ContainsKey(TKey key)\tbool"
+			],
+			[
+				"Container",
+				"_container\tDictionary<int, BaseEntity>"
+			],
+			[
+				"InvalidOperationException",
+				"InvalidOperationException(string message)\tInvalidOperationException(string message)"
+			],
+			[
+				"Pu",
+				"PursuitOn()\tvoid"
+			],
+			[
+				"E",
+				"EvadeOn()\tvoid"
+			],
+			[
+				"Se",
+				"SeekOn()\tvoid"
+			],
+			[
+				"Wa",
+				"WanderOn()\tvoid"
+			],
+			[
+				"Ind",
+				"IndianRed\tColor { get; set; }"
+			],
+			[
+				"Re",
+				"DarkRed\tColor { get; set; }"
+			],
+			[
+				"B",
+				"Black\tColor { get; set; }"
+			],
+			[
+				"lcoal",
+				"localPos\tVector2"
+			],
+			[
+				"wan",
+				"wanderCirclePos\tVector2"
+			],
+			[
+				"Loca",
+				"LocalToWorldByMatrix(Vector2 localPos, Vector2 heading, Vector2 perp, Vector2 parentPos)\tVector2"
+			],
+			[
+				"_wa",
+				"_wanderingTarget\tVector2"
+			],
+			[
+				"Le",
+				"LengthSquared()\tfloat"
+			],
+			[
+				"Wand",
+				"WanderingTarget\tVector2 { get; set; }"
+			],
+			[
+				"targ",
+				"targetLocal\tVector2"
+			],
+			[
+				"wa",
+				"wanderTargetPos\tVector2"
+			],
+			[
+				"G",
+				"Goldenrod\tColor { get; set; }"
+			],
+			[
+				"_ma",
+				"_mainEntity\tVehicle"
+			],
+			[
+				"tar",
+				"targetLocal\tVector2"
+			],
+			[
+				"CreateScale",
+				"CreateScale(Vector3 scales)\tMatrix"
+			],
+			[
+				"Nul",
+				"NullReferenceException(string message)\tNullReferenceException(string message)"
+			],
+			[
+				"sce",
+				"sceneManager\tSceneManager"
+			],
+			[
+				"de",
+				"debugActive\tbool"
+			],
+			[
+				"Nu",
+				"NullReferenceException(string message)\tNullReferenceException(string message)"
+			],
+			[
+				"clas",
+				"class\tclass"
+			],
+			[
+				"Pursuit",
+				"Pursuit(MovingEntity target)\tVector2"
+			],
+			[
+				"S",
+				"LengthSquared()\tfloat"
+			],
+			[
+				"desire",
+				"desiredVelocity\tVector2"
+			],
+			[
+				"desi",
+				"desiredVelocity\tVector2"
+			],
+			[
+				"Arr",
+				"ArriveOn()\tvoid"
+			],
+			[
+				"fiel",
+				"_fieldOfView\tTexture2D"
+			],
+			[
+				"cont",
+				"contentManager:\tContentManager"
+			],
+			[
+				"Grap",
+				"GraphicsHelper\tGraphicsHelper"
+			],
+			[
+				"hea",
+				"UpdateHeading()\tvoid"
+			],
+			[
+				"De",
+				"ToRadians(float degrees)\tfloat"
+			],
+			[
+				"CreateRotation",
+				"CreateRotationZ(float radians)\tMatrix"
+			],
+			[
+				"_max",
+				"_maxRotation\tfloat"
+			],
+			[
+				"M",
+				"Max(double val1, double val2)\tdouble"
+			],
+			[
+				"SI",
+				"Sign(double value)\tint"
+			],
+			[
+				"max",
+				"_maxRotation\tdouble"
+			],
+			[
+				"Rand",
+				"RandomHelper\tRandomHelper"
+			],
+			[
+				"new",
+				"new_value\tfloat"
+			],
+			[
+				"Poi",
+				"Point(int x, int y)\tPoint(int x, int y)"
+			],
+			[
+				"Has",
+				"Hash2D(int x, int y, Point repeatAll)\tint"
+			],
+			[
+				"re",
+				"repeatAll\tVector2"
+			],
+			[
+				"MAth",
+				"MathHelper\tMathHelper"
+			],
+			[
+				"NE",
+				"NextDouble()\tdouble"
+			],
+			[
+				"Ramd",
+				"RandomGenerator\tRandomGenerator"
+			],
+			[
+				"grad",
+				"grads_y\tfloat[]"
+			],
+			[
+				"D",
+				"Dot(Vector2 value1, Vector2 value2)\tfloat"
+			],
+			[
+				"Math",
+				"Math\tMath"
+			],
+			[
+				"Nex",
+				"NextDouble()\tdouble"
+			],
+			[
+				"N",
+				"NextFloat()\tfloat"
+			],
+			[
+				"gra",
+				"_gradients\tVector3[]"
+			],
+			[
+				"Ne",
+				"NextDouble()\tdouble"
+			],
+			[
+				"Sa",
+				"Sienna\tColor { get; }"
+			],
+			[
+				"Y",
+				"LightGoldenrodYellow\tColor { get; }"
+			],
+			[
+				"Lia",
+				"LightCoral\tColor { get; }"
+			],
+			[
+				"Go",
+				"Goldenrod\tColor { get; }"
+			],
+			[
+				"Ye",
+				"LightGoldenrodYellow\tColor { get; }"
+			],
+			[
+				"Dark",
+				"DarkGray\tColor { get; }"
+			],
+			[
+				"Da",
+				"DarkSlateGray\tColor { get; }"
+			],
+			[
+				"Br",
+				"Brown\tColor { get; }"
+			],
+			[
+				"nois",
+				"noiseValue\tfloat"
+			],
+			[
+				"noi",
+				"noiseMap\tfloat[,]"
+			],
+			[
+				"Fr",
+				"GenerateFractalNoise(int width, int height, float frequency, float lacunarity, float gain, int numLayer)\tfloat[,]"
+			],
+			[
+				"Genera",
+				"GenerateFractalNoise(int width, int height, float frequency, float lacunarity, float gain, int numLayer)\tfloat[,]"
+			],
+			[
+				"L",
+				"GetLength(int dimension)\tint"
+			],
+			[
+				"Bi",
+				"Bitmap(int width, int height)\tBitmap(int width, int height)"
+			],
+			[
+				"Image",
+				"GraphicsDeviceManager\tGraphicsDeviceManager"
+			],
+			[
+				"Dra",
+				"IDrawable\tIDrawable"
+			],
+			[
+				"Fro",
+				"FromNonPremultiplied(int r, int g, int b, int a)\tColor"
+			],
+			[
+				"Frpr",
+				"FromNonPremultiplied(int r, int g, int b, int a)\tColor"
+			],
+			[
+				"Value",
+				"ValueNoise2D\tValueNoise2D"
+			],
+			[
+				"Ran",
+				"RandomGenerator\tRandomGenerator"
+			],
+			[
+				"MA",
+				"MathHelper\tMathHelper"
+			],
+			[
+				"per",
+				"_permutationTable\tint[]"
+			],
+			[
+				"ran",
+				"_randomArray\tdouble[]"
+			],
+			[
+				"F",
+				"Floor(double d)\tdouble"
+			],
+			[
+				"Mat",
+				"Math\tMath"
+			],
+			[
+				"_r",
+				"_permutationTable\tdouble[]"
+			],
+			[
+				"Ra",
+				"RandomGenerator\tRandomGenerator"
+			],
+			[
+				"rand",
+				"randomGenerator\tRandomGenerator"
+			],
+			[
+				"Obs",
+				"Obstacle\tObstacle"
+			],
+			[
+				"Con",
+				"Content\tContentManager { get; set; }"
+			],
+			[
+				"obs",
+				"obstacles\tObstacle[]"
+			],
+			[
+				"Ob",
+				"Obstacle\tObstacle"
+			],
+			[
+				"Text",
+				"Texture2D\tTexture2D"
+			],
+			[
+				"Ini",
+				"InitializeTransform()\tvoid"
+			],
+			[
+				"off",
+				"offsetPos\tVector2"
+			],
+			[
+				"Off",
+				"OnOffsetPosCall(Vector2 target)\tvoid"
+			],
+			[
+				"OF",
+				"OffsetPursuitOn()\tvoid"
+			],
+			[
+				"Up",
+				"UpdateArrivePos(Vector2 target)\tvoid"
+			],
+			[
+				"Viw",
+				"ViewDistance\tdouble { get; set; }"
+			],
+			[
+				"Vie",
+				"ViewDistance\tdouble { get; set; }"
+			],
+			[
+				"Upd",
+				"UpdateCircleTexture()\tvoid"
+			],
+			[
+				"Fiel",
+				"FieldOfViewUpdated\tFieldOfViewUpdated"
+			],
+			[
+				"Be",
+				"Behavior\tSteeringBehavior { get; }"
+			],
+			[
+				"del",
+				"deltaX\tdouble"
+			],
+			[
+				"tae",
+				"targetPos\tVector2"
+			],
+			[
+				"offp",
+				"pursuitOffsetPos\tVector2"
+			],
+			[
+				"Is",
+				"IsOffsetPursuitOn\tbool { get; }"
+			],
+			[
+				"q",
+				"DarkTurquoise\tColor { get; set; }"
+			],
+			[
+				"veh",
+				"vehicle1\tVehicle"
+			],
+			[
+				"Flee",
+				"FleeOn()\tvoid"
+			],
+			[
+				"Tar",
+				"target1\tObstacle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Behavior/SteeringBehavior.cs",
+			"settings":
+			{
+				"buffer_size": 33004,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Scene/FlockScene.cs",
+			"settings":
+			{
+				"buffer_size": 6481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Game1.cs",
+			"settings":
+			{
+				"buffer_size": 2776,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/Python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Kulture/ASP.NET.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Kulture/ASP.NET.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/pandoc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build/pandoc.sublime-build",
+					"Make pdf"
+				],
+				[
+					"Packages/User/Build/pandoc.sublime-build",
+					"Make tex"
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "relo",
+		"selected_items":
+		[
+			[
+				"relo",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"rel",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"load",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omn",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"pyr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"build",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"omire",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"omre",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"cle",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"reloa",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"ou",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"omnre",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"out",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"omcl",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"omout",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"sho",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"show",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"omnilo",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"ompan",
+				"OmniSharpSublime: Hide Info Panel"
+			],
+			[
+				"binu",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"bindd",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"prj",
+				"Project: Close"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"OmniSharpSublime: Remove From Project"
+			],
+			[
+				"solutio",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"preoj",
+				"Project: Edit Project"
+			],
+			[
+				"ros",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"server",
+				"OmniSharpSublime: Show Server Output"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"anca",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"as",
+				"Anaconda: Show error list"
+			],
+			[
+				"PYR",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python3"
+			],
+			[
+				"yr",
+				"Set Syntax: R"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"pye",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"synpyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"sesynpyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"bum",
+				"Build With: Markdown"
+			],
+			[
+				"prett",
+				"Preferences: ToggleTheme Settings – Default"
+			],
+			[
+				"prefto",
+				"Preferences: ToggleTheme Settings – Default"
+			],
+			[
+				"TT",
+				"ToggleTheme: Toggle"
+			],
+			[
+				"Tog",
+				"ToggleTheme: Toggle"
+			],
+			[
+				"ToT",
+				"ToggleTheme: Toggle"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"synjin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"preuse",
+				"Preferences: Settings - User"
+			],
+			[
+				"prede",
+				"Preferences: Settings - Default"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"mar",
+				"Build With: Markdown"
+			],
+			[
+				"a",
+				"Anaconda: Show error list"
+			],
+			[
+				"synpyt",
+				"Set Syntax: Python"
+			],
+			[
+				"synsq",
+				"Set Syntax: SQL"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packaupda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"viewbro",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"ins ",
+				"Package Control: Install Package"
+			],
+			[
+				"marpr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Gist: Insert Gist"
+			],
+			[
+				"rermo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pry",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"pr",
+				"Permute Lines: Reverse"
+			],
+			[
+				"pas",
+				"Project: Save As"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 506.0
+	},
+	"console":
+	{
+		"height": 707.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"print(\"eeeee\")",
+			"print(\"eeeee\"",
+			"%clear",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pampi/Documents/Projects/AutonomousAgent"
+	],
+	"file_history":
+	[
+		"/run/media/pampi/Perso/Creajeux/C++/TD/LibMath/include/LibMath/2D/Matrix22.hpp",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/EntityManager.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Game1.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Scene/Scene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/MovingEntity.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Scene/EscapeScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Scene/WanderScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Scene/SceneManager.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/AutonomousAgent.csproj",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/PursuitScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/TransformHelper.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Behavior/SteeringBehavior.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/Vehicle.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/WanderScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/SeekScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/FleeScene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/ArriveScene.cs",
+		"/home/pampi/Documents/Courses/Csharp/RiemersNet/CanonShooter/Game1.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/VectorExtensions.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/AsynchonousHelper.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/Scene.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/FSM/SceneManager.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/BaseEntity.cs",
+		"/home/pampi/Documents/Projects/GameDev/SteeringBehavior/Entities/Vehicle.cs",
+		"/home/pampi/Documents/Projects/GameDev/SteeringBehavior/Entities/GameObject.cs",
+		"/home/pampi/Documents/Projects/GameDev/SteeringBehavior/Entities/MovingEntity.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/GraphicsHelper.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/RandomHelper.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Behavior/Steering.cs",
+		"/home/pampi/Documents/Projects/GameDev/SteeringBehavior/Behavior/Steering.cs",
+		"/home/pampi/Documents/Projects/GameDev/SteeringBehavior/Game1.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Tools/DoubleExtensions.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/EntityType.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Behavior/BehaviorType.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Behavior/CombinationMethod.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/Entity/GameObject.cs",
+		"/home/pampi/Documents/Projects/AutonomousAgent/AutonomousAgent.sublime-project",
+		"/home/pampi/.bashrc",
+		"/home/pampi/Documents/Projects/MiniGame/Tetromino/Tetromino/Board.cs",
+		"/home/pampi/Documents/Projects/MiniGame/MiniGame.sublime-project",
+		"/home/pampi/Documents/Courses/RedBlob/Prob_for_damage/arbitrary_shapes.py",
+		"/home/pampi/Documents/.Civique/Poste/ppppP.txt",
+		"/home/pampi/Documents/.Civique/Poste/pppp.txt",
+		"/home/pampi/Documents/.Civique/README.md",
+		"/home/pampi/.config/sublime-text-3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/home/pampi/.config/sublime-text-3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/home/pampi/Documents/Projects/MiniGame/Tetromino/Tetromino/Piece.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Tetromino/Tetromino/Components/BoardComponents.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Tetromino/Tetromino/Game1.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Camera/README.md",
+		"/home/pampi/Documents/Travail/Python_test/plot_test.py",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/Program.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/PerlinNoise.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/README.md",
+		"/home/pampi/Documents/Projects/MiniGame/Camera/Camera.csproj",
+		"/home/pampi/Documents/Projects/MiniGame/Tetromino/Tetromino/Tetromino.csproj",
+		"/home/pampi/Downloads/poisson_disk_python/src/datastructures.py",
+		"/home/pampi/Downloads/poisson_disk_python/src/enhanced_grid.py",
+		"/home/pampi/Downloads/poisson_disk_python/src/poisson_disk.py",
+		"/home/pampi/Downloads/poisson_disk_python/src/poisson_disk_demo.py",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/Tools.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/ValueNoise.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/Noise.csproj",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/WhiteNoise.cs",
+		"/home/pampi/Documents/Courses/Csharp/BeginningGameProgrammingWithCsharp/Week_02/VideoCode/5-3-FirstXnaGame/FirstXnaGame/Game1.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/bin/Debug/valueNoise.png",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/bin/Debug/whiteNoise.png",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/bin/Debug/test.png",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/NoiseFactory.cs",
+		"/home/pampi/Documents/Courses/Csharp/RiemersNet/CanonShooter/Program.cs",
+		"/home/pampi/Documents/Projects/MiniGame/Noise/Random.cs",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Entities/Vehicle.cs",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Game1.cs",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Behavior/Steering.cs",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/SteeringBehaviors.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/SteeringBehaviors.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/GameWorld.cpp",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Entities/MovingEntity.cs",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Entities/Obstacle.cs",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Common/2D/C2DMatrix.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Common/2D/Transformations.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/BaseGameEntity.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/MovingEntity.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Common/2D/Vector2D.h",
+		"/home/pampi/Downloads/Flock/Flock.java",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Entities/GameObject.cs",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Behavior/BehaviorType.cs",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/Vehicle.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/GameWorld.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/main.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/EntityFunctionTemplates.h",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/SteeringBehavior.csproj",
+		"/home/pampi/Documents/Projects/MiniGame/SteeringBehavior/Behavior/CombinationMethod.cs",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/SteerLibrary.h",
+		"/home/pampi/Downloads/diapo_tradimaisons_20161017.tex",
+		"/home/pampi/Downloads/Flock/Bird.java",
+		"/home/pampi/Downloads/Flock/Food.java",
+		"/home/pampi/Downloads/Flock/Predator.java",
+		"/home/pampi/Downloads/Flock/Simulator.java",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/SimpleVehicle.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/LocalSpace.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/AbstractVehicle.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/Obstacle.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/Utilities.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/Annotation.h",
+		"/home/pampi/Downloads/opensteer/src/SimpleVehicle.cpp",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/Vec3.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/Camera.h",
+		"/home/pampi/Downloads/opensteer/include/OpenSteer/OpenSteerDemo.h",
+		"/home/pampi/Downloads/opensteer/src/OpenSteerDemo.cpp",
+		"/home/pampi/Downloads/opensteer/src/Clock.cpp",
+		"/home/pampi/Downloads/opensteer/src/lq.c",
+		"/home/pampi/Downloads/opensteer/src/PlugIn.cpp",
+		"/home/pampi/Downloads/opensteer/src/Vec3.cpp",
+		"/home/pampi/Downloads/opensteer/src/main.cpp",
+		"/home/pampi/Downloads/Arrive/MainWindow.xaml.cs",
+		"/home/pampi/Downloads/Arrive/App.xaml.cs",
+		"/home/pampi/Downloads/Arrive/Properties/Settings.Designer.cs",
+		"/home/pampi/.cache/.fr-ilzKDh/Vector2.cs",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/src/demos/c03_flocking/flock_steer.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/include/aicore/rules.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/include/aicore/location.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/include/aicore/steerpipe.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/include/aicore/kinematic.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/src/steering.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/include/aicore/steering.h",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/ArtificialIntelligenceForGames/src/kinematic.cpp",
+		"/home/pampi/Documents/Documentations/GameDesign/AI/Programming_game_AI_by_example/VS2010/Buckland_Chapter3-Steering Behaviors/ParamLoader.cpp"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"DarkOlreen",
+			"_wanderingJitter",
+			"averageHeading",
+			"_entities",
+			"Values",
+			"entity",
+			"vehicle",
+			"RandomGenerator",
+			"SetWeightOf",
+			"AssignWeight",
+			"SetWeightOf",
+			"temp",
+			"Separation",
+			"Agent.World.Vehicles",
+			"_neighbors",
+			"Agent.World.Vehicles",
+			"vehicle",
+			"desiredSeparation",
+			"neighbors",
+			"_neighbors",
+			"_taggedMovingEntities",
+			"vehicle",
+			"_taggedMovingEntities",
+			"entity",
+			"BaseEntity",
+			"vehicle.",
+			"vehicle.Velocity",
+			"_tagEntities",
+			"System.Collections.",
+			"Configuration",
+			"i",
+			"_items",
+			"TagEntities",
+			"Dictionary",
+			"viewDistance",
+			"Flock",
+			"_flock",
+			"RevertToPrevious",
+			"_escaper",
+			"_entityContainer",
+			"EscapeScene",
+			"SceneManager",
+			"_manager",
+			"_container",
+			"SceneManager",
+			"FSM",
+			"alreadyExist",
+			"_mainEntity",
+			"1000",
+			"1000f",
+			"Evade",
+			"_target",
+			"_mainEntity",
+			"FleeScene",
+			"ndiaRed",
+			"p",
+			"h",
+			"CreateLocalMatrix",
+			"new Vector2(1.0f, 1.0f)",
+			"Conso",
+			"AddCrater",
+			"CheckTerrainCollision",
+			"localMatrix",
+			"localPos",
+			"wanderCirclePos",
+			"Point",
+			"LocalPointToWorld",
+			"baseRotation",
+			"worldMatrix",
+			"toWorldMatrix",
+			"rotation",
+			"LocalToWorldCoordMatrix",
+			"_heading",
+			"UpdateOrientation",
+			"Norma",
+			"Normalize",
+			"WanderingRadius",
+			"_wanderingRadius",
+			"WanderingRadius",
+			"b.wanderCircle",
+			"Pos",
+			"Normalize",
+			"Heading",
+			"heading",
+			"reference",
+			"IScene",
+			"protected",
+			"IScene",
+			"_timerKeyboard",
+			"void",
+			"RevertToPrevious",
+			"ChangeScene",
+			"ArriveScene",
+			"SeekScene",
+			"_debugActive",
+			"DebugActive",
+			"GraphicsDevice",
+			"sceneManager",
+			"spriteBatch",
+			"_game",
+			"spriteBatch",
+			"debugActive",
+			"Scene",
+			"scene",
+			"Scene",
+			"public abstract",
+			"SceneManager",
+			"TurnArroundTime",
+			"coefDelay",
+			"TurnArroundTime",
+			"desiredDirection",
+			"TurnArroundTime",
+			"targetPos",
+			"arrive",
+			"Arrive",
+			"arrive",
+			"Arrive",
+			"distance",
+			"UpdateLocalBase",
+			"_sprite",
+			"sprite",
+			"BrakeRadius",
+			"BRadius",
+			"bra",
+			"radius",
+			"Flee",
+			"_viewDistance",
+			"RotateTowards"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Spades",
+			"Hearts",
+			"Diamonds",
+			".. note",
+			", child=None, name=None",
+			"'",
+			"### ",
+			"## ",
+			"# ",
+			"intelligent",
+			"",
+			",",
+			"    ",
+			"data1",
+			"[h]",
+			"linewidth=self.width"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Behavior/SteeringBehavior.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24572,
+								24572
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"1076,1088": "Name should have prefix '_'. (Rule 'Fields').",
+								"1113,1128": "Name should have prefix '_'. (Rule 'Fields').",
+								"1153,1168": "Name should have prefix '_'. (Rule 'Fields').",
+								"12133,12135": "Convert to '?:' expression",
+								"15961,15976": "Method 'TurnArroundTime' can be made static.",
+								"22750,22758": "Parameter can be IEnumerable",
+								"24746,24754": "Parameter can be IEnumerable",
+								"25708,25716": "Parameter can be IEnumerable",
+								"2790,2805": "Convert to auto property",
+								"3026,3041": "Convert to auto property",
+								"3263,3280": "Convert to auto property",
+								"3509,3524": "Convert to auto property"
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13823.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Scene/FlockScene.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1654,
+								1654
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"3248,3249": "Comparison with 'true' is redundant"
+							},
+							"open_with_edit": true,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Game1.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1404,
+								1404
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"1368,1372": "Argument value is redundant",
+								"295,303": "Convert to readonly"
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.anaconda_documentation":
+	{
+		"height": 351.0
+	},
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 172.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.variable_get":
+	{
+		"height": 252.0
+	},
+	"pinned_build_system": "",
+	"project": "AutonomousAgent.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pyr",
+				"cover/Project_py.html"
+			],
+			[
+				"yr",
+				"cover/jquery.isonscreen.js"
+			],
+			[
+				"6_co",
+				"Flask-Taskr6/project/_config.py"
+			],
+			[
+				"6run",
+				"Flask-Taskr6/run.py"
+			],
+			[
+				"6temba",
+				"Flask-Taskr6/project/templates/_base.html"
+			],
+			[
+				"6useviw",
+				"Flask-Taskr6/project/users/views.py"
+			],
+			[
+				"6tasksv",
+				"Flask-Taskr6/project/tasks/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Courses/Programming_game_AI_by_example/Programming_game_AI_by_example.sublime-project"
+			],
+			[
+				"gamd",
+				"~/Documents/Projects/GameDev/GameDev.sublime-project"
+			],
+			[
+				"lea",
+				"~/Documents/Courses/Learn to create Computer games with python and pygame/Learn_ComputerGames_Pygame.sublime-project"
+			],
+			[
+				"st",
+				"~/Documents/Courses/SheetCheat/SheetCheat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 310.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
